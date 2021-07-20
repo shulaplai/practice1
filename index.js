@@ -1,2 +1,1 @@
-practice html and css 
-branch 
+//js practices
